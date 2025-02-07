@@ -19,6 +19,7 @@ Event Coordinator for the Nepalese Student Association, organizing career worksh
 Freelance tutor, mentoring 50+ students in Python, Java, and C++.
 
 🛠 Featured Projects
+
 📸 DeityVision – AI Image Recognition for Deities
 Tech: Python, Flask, CNN, TensorFlow, Keras, Web Scraping
 
