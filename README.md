@@ -1,7 +1,6 @@
 👋 Hey there, I'm Subriti Pradhan!
 
-💻 Tech Enthusiast | 🧠 Machine Learning Explorer | 🚀 Full-Stack Developer | 🎤 Event Emcee
-Turning caffeine and code into innovation, one commit at a time!
+💻 Tech Enthusiast | 🧠 Machine Learning Explorer | 🚀 Full-Stack Developer |
 
 👩‍💻 About Me
 I'm a Computer Science student at USF, passionate about AI, machine learning, and full-stack development.
